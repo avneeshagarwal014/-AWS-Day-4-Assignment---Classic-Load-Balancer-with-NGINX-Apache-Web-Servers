@@ -142,25 +142,41 @@ Used the Load Balancer DNS Endpoint to verify:
 
 ## 📸 Project Screenshots
 
-### AWS Classic Load Balancer
+### AWS EC2 Instances Running
 
-![Classic Load Balancer](screenshots/clb.png)
+![Ec2 Instance](screenshots/EC2 Instances List.png)
 
-### Registered EC2 Instances
+### Nginx Service Status – Server 1
 
-![EC2 Instances](screenshots/ec2-instances.png)
+![Nginx Status](screenshots/nginx status running.png)
 
-### NGINX Server Output
+### Apache HTTPD Service Status - Server 2
 
-![NGINX Server](screenshots/nginx-server.png)
+![Apache HTTPD Status](screenshots/httpd status running.png)
 
-### Apache HTTPD Server Output
+### Custom Web Page on Server-1 Nginx
 
-![Apache Server](screenshots/apache-server.png)
+![Web Page - Nginx](screenshots/Custom Web Page on Server-1 Nginx.png)
+
+### Custom Web Page on Server-2 Apache HTTPD
+
+![Web Page - Apache HTTPD](screenshots/Custom Web Page on Server-2 httpd.png)
+
+### Classic Load Balancer Configuration
+
+![LB Configuration](screenshots/Load Balancer Configuration.png)
 
 ### Health Check Status
 
-![Health Check](screenshots/health-check.png)
+![Health Check](screenshots/Registered Targets &Instances.png)
+
+### NGINX Server Output
+
+![NGINX Server](screenshots/Load Balancer Traffic Distribution - Nginx.png)
+
+### Apache HTTPD Server Output
+
+![Apache Server](screenshots/Load Balancer Traffic Distribution - httpd.png)
 
 ---
 
