@@ -144,39 +144,39 @@ Used the Load Balancer DNS Endpoint to verify:
 
 ### AWS EC2 Instances Running
 
-![Ec2 Instance](screenshots/EC2 Instances List.png)
+![Ec2 Instances](screenshots/ec2-instances-List.png)
 
 ### Nginx Service Status – Server 1
 
-![Nginx Status](screenshots/nginx status running.png)
+![Nginx Status](screenshots/nginx-status-running.png)
 
 ### Apache HTTPD Service Status - Server 2
 
-![Apache HTTPD Status](screenshots/httpd status running.png)
+![Apache HTTPD Status](screenshots/httpd-status-running.png)
 
 ### Custom Web Page on Server-1 Nginx
 
-![Web Page - Nginx](screenshots/Custom Web Page on Server-1 Nginx.png)
+![Web Page - Nginx](screenshots/Custom-Web-Page-on-Server-1-Nginx.png)
 
 ### Custom Web Page on Server-2 Apache HTTPD
 
-![Web Page - Apache HTTPD](screenshots/Custom Web Page on Server-2 httpd.png)
+![Web Page - Apache HTTPD](screenshots/Custom-Web-Page-on-Server-2-httpd.png)
 
 ### Classic Load Balancer Configuration
 
-![LB Configuration](screenshots/Load Balancer Configuration.png)
+![LB Configuration](screenshots/Load-Balancer-Configuration.png)
 
 ### Health Check Status
 
-![Health Check](screenshots/Registered Targets &Instances.png)
+![Health Check](screenshots/Registered-Targets&Instances.png)
 
 ### NGINX Server Output
 
-![NGINX Server](screenshots/Load Balancer Traffic Distribution - Nginx.png)
+![NGINX Server](screenshots/Load-Balancer-Traffic-Distribution-Nginx.png)
 
 ### Apache HTTPD Server Output
 
-![Apache Server](screenshots/Load Balancer Traffic Distribution - httpd.png)
+![Apache Server](screenshots/Load-Balancer-Traffic-Distribution-httpd.png)
 
 ---
 
